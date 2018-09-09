@@ -11,4 +11,5 @@ teacher_info: "*Funções e Tipos de Dados revisado\n  \nOlá! Talvez você não
   os dados\n   * E que tal assim…?\n"
 language: javascript
 id_format: "%05d"
-order: []
+order:
+- 1
