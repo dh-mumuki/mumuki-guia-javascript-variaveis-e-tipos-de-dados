@@ -1,0 +1,1 @@
+Como fazemos em matemática, às vezes para fazer contas precisamos **separar em termos** com parênteses.
