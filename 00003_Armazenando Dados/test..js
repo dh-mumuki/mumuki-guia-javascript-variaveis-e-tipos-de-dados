@@ -3,8 +3,8 @@ describe("", function() {
     assert.notEqual(idade, "undefined");
     assert.ok(typeof idade === "number");
   });
-  it("Declarada e asignada a variável nome", function() {
-    assert.notEqual(nome, "undefined");
-    assert.ok(typeof nome == "number");
+  it("Declarada e assinada a variável peso", function() {
+    assert.notEqual(peso, "undefined");
+    assert.ok(typeof peso == "number");
   });
 })

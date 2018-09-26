@@ -11,4 +11,4 @@ var meses = 12
 var quantidadeDeAlunos = 30
 ``` 
 
-> Para passar para o próximo exercício, declare duas variáveis ​​(nome e idade) e atribua a elas um valor numérico. Em seguida, pressione Enviar.
+> Para passar para o próximo exercício, declare duas variáveis ​​(idade e peso) e atribua a elas um valor numérico. Em seguida, pressione Enviar.
