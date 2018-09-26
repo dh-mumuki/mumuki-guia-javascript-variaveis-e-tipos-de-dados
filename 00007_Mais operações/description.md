@@ -4,7 +4,7 @@ Neste caso, o símbolo `+` nos ajudará a concatenar, isto é, juntar nossas str
 FIQUE DE OLHO, NÃO ESQUEÇA OS ESPAÇOS!
 
 
-Vamos tentar::
+Vamos tentar:
 
 ```javascript
 var nome = "Ronaldo";
