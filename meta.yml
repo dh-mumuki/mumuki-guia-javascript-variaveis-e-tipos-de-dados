@@ -7,7 +7,7 @@ teacher_info: "*Funções e Tipos de Dados revisado\n  \nOlá! Talvez você não
   notado, mas você já tem as bases da programação: você já sabe como declarar funções
   e procedimentos, usar variáveis, tomar decisões\n\n  - Não há tabuleiro, mas ainda
   podemos fazer muitas coisas!\n\n\n   * Funções e declaração\n    > \n   * Functions,
-  uso\n   * Tipos de datos, introdução\n   * Booleanos\n   * Mais contas!\n   * Jogando
+  uso\n   * Tipos de dados, introdução\n   * Booleanos\n   * Mais contas!\n   * Jogando
   os dados\n   * E que tal assim…?\n"
 language: javascript
 id_format: "%05d"
