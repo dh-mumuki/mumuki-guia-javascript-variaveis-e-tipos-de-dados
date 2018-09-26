@@ -1,1 +1,1 @@
-Neste procedimento, você pode precisar criar um local adicional para armazenar informações.
+Neste procedimento, você pode precisar criar uma terceira variável para armazenar informações.
