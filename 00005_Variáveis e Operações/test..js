@@ -12,10 +12,10 @@ describe("", function() {
     assert.ok(typeof resultadoSoma == "number");
     assert.ok(resultadoSoma === (numeroA+numeroB));
   });
-  it("Declarada e asignada a variável resultadoResto", function() {
-    assert.notEqual(resultadoResto, "undefined");
-    assert.ok(typeof resultadoResto == "number");
-    assert.ok(resultadoResto === (numeroA-numeroB));
+  it("Declarada e asignada a variável resultadoSubtracao", function() {
+    assert.notEqual(resultadoSubtracao, "undefined");
+    assert.ok(typeof resultadoSubtracao == "number");
+    assert.ok(resultadoSubtracao === (numeroA-numeroB));
   });
   it("Declarada e asignada a variável resultadoMultiplicacao", function() {
     assert.notEqual(resultadoMultiplicacao, "undefined");

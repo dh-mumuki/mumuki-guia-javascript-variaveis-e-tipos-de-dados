@@ -19,7 +19,7 @@ console.log(numeroSeguinte);
 // O resultado que será impresso na tela será o valor assinado a variável numero somado a 1, portanto, o valor assinado a numeroSeguinte será 125.
 ```
 
-> Vamos ver se está entendido: **Declare e atribua** duas variáveis, `numeroA` e `numeroB`, e então nas variáveis `resultadoSoma`,`resultadoResto`, `resultadoMultiplicacao` e` resultadoDivisao` armazene os cálculos feitos utilizando numeroA e numeroB nas variáveis de resultado, de modo que o cálculo matemático se altere de acordo com o título da variável, por exemplo.
+> Vamos ver se está entendido: **Declare e atribua** duas variáveis, `numeroA` e `numeroB`, e então nas variáveis `resultadoSoma`,`resultadoSubtracao`, `resultadoMultiplicacao` e` resultadoDivisao` armazene os cálculos feitos utilizando numeroA e numeroB nas variáveis de resultado, de modo que o cálculo matemático se altere de acordo com o título da variável, por exemplo.
 Exemplo **var resultadoSoma = (numeroA + numeroB)**
 Como nossa variável **resultadoSoma** indica nós devemos fazer uma soma utilizando as variáveis numeroA e numeroB. 
 Lembre-se, você pode mostrar os resultados imprimindo cada um deles na aba Console ao lado da aba Solução, usando console.log ().
