@@ -9,10 +9,10 @@ describe("", function() {
   });
     it("Declarada e atribuída a variável eMenor", function() {
     assert.notEqual(eMenor, "undefined");
-    assert.ok(eMenor === umNumeroPequeno < unNumeroGrande);
+    assert.ok(eMenor === umNumeroPequeno < umNumeroGrande);
   });
     it("Declarada e atribuída a variável eMaior", function() {
     assert.notEqual(eMaior, "undefined");
-    assert.ok(eMaior === umNumeroPequeno > unNumeroGrande);
+    assert.ok(eMaior === umNumeroPequeno > umNumeroGrande);
   });
 })
