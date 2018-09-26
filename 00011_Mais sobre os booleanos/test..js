@@ -3,16 +3,16 @@ describe("", function() {
     assert.notEqual(umNumeroPequeno, "undefined");
     assert.ok(typeof umNumeroPequeno === "number");
   });
-    it("Variável declarada e atribuída umNumeroGrande", function() {
+    it("Declarada e atribuída a variável umNumeroGrande", function() {
     assert.notEqual(umNumeroGrande, "undefined");
-    assert.ok(typeof unNumeroGrande === "number");
+    assert.ok(typeof umNumeroGrande === "number");
   });
     it("Declarada e atribuída a variável eMenor", function() {
     assert.notEqual(eMenor, "undefined");
     assert.ok(eMenor === umNumeroPequeno < unNumeroGrande);
   });
-    it("Declarada y asignada la variable esMayor", function() {
-    assert.notEqual(esMayor, "undefined");
-    assert.ok(esMayor === umNumeroPequeno > unNumeroGrande);
+    it("Declarada e atribuída a variável eMaior", function() {
+    assert.notEqual(eMaior, "undefined");
+    assert.ok(eMaior === umNumeroPequeno > unNumeroGrande);
   });
 })
