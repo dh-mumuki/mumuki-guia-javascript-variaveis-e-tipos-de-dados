@@ -2,7 +2,7 @@ Nós já vimos como declarar uma variável. Mas como podemos manter algo nisso?
 
 Para salvar um valor em uma variável, usamos o sinal `=` e, em seguida, o valor que queremos armazenar.
 
-Na programação, quando armazenamos um valor em uma variável é chamado "assinar".
+Na programação, quando armazenamos um valor em uma variável é chamado "atribuir".
 
 Por exemplo:
 

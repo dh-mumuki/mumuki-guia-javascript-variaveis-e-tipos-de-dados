@@ -1,4 +1,4 @@
-describe("Descripción del grupo", function() {
+describe("", function() {
   it("Declarada e atribuída a variável umNumeroPequeno", function() {
     assert.notEqual(umNumeroPequeno, "undefined");
     assert.ok(typeof umNumeroPequeno === "number");
