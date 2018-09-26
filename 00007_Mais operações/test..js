@@ -10,6 +10,6 @@ describe("", function() {
   it("Declarada e assinada a variável nomeCompleto", function() {
     assert.notEqual(nomeCompleto, "undefined");
     assert.ok(typeof nomeCompleto == "string");
-    assert.ok(nomeCompleto === nombre + " " + apellido)
+    assert.ok(nomeCompleto === nome + " " + sobrenome)
   });
 })
