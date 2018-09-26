@@ -14,6 +14,6 @@ describe("", function() {
   it("Declarada e atribuída a variável de resultado", function() {
     assert.notEqual(resultado, "undefined");
     assert.ok(typeof resultado === "string");
-    assert.equal(resultado,"Depois do tempo que , " + nome + " " + sobrenome + " vai ter " + (idade + 2))
+    assert.equal(resultado,"Em dois anos, " + nome + " " + sobrenome + " terá " + (idade + 2))+" anos."
   }); 
 })
