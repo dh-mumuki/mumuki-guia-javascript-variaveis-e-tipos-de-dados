@@ -9,7 +9,8 @@ console.log (2> 1) // Isso imprimirá "true" na tela
 Isso significa que "2> 1" tem um valor de **true**. Nós também poderíamos ter escrito o mesmo código da seguinte forma
 
 ```javascript
-var valorVerdade  = 2> 1; // Como vimos 2> 1, ele retorna um valor de verdade e o atribuímos a uma variável
+var valorVerdade  = 2> 1; 
+// Como vimos 2> 1, ele retorna um valor de verdade e o atribuímos a uma variável
 console.log (valorVerdade) // Isso imprimirá "true" na tela
 ```
 
