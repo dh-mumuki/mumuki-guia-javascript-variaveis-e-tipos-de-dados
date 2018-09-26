@@ -17,3 +17,7 @@ var quantidadeDeAlunos = 30;
 ``` 
 
 A partir dos  próximos exercícios, usaremos o ";" como no exemplo anterior.
+
+Agora faça o teste e crie as variáveis  `meses` e  `quantidadeDeAlunos`.
+
+Após criar a variável vá para a aba _Consola e escreva somente o nome da variável e veja o que acontece.
