@@ -17,4 +17,4 @@ Por exemplo:
 var valorVerdadeiro = true;
 console.log (valorVerdadeiro) // Isso irá imprimir "true" na tela
 ```
-> Para continuar, eu defini uma variável ‘gostoDeGelado` e atribui a ela um valor de verdade. Então ele imprimiu na tela o valor da variável.
+> Para continuar, defina uma variável ‘gostoDeSorvete` e atribui a ela um valor de verdade. Então ele imprimiu na tela o valor da variável.
