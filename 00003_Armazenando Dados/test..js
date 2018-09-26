@@ -1,5 +1,5 @@
 describe("", function() {
-  it("Declarada e asignada a variável idade", function() {
+  it("Declarada e assinada a variável idade", function() {
     assert.notEqual(idade, "undefined");
     assert.ok(typeof idade === "number");
   });
