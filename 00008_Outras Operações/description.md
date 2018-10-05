@@ -1,8 +1,8 @@
 E o que acontece se eu adicionar números com textos?
 
 ```javascript
-var rua = "Monroe";
-var numero = 860;
+let rua = "Monroe";
+let numero = 860;
 console.log (rua + "" + numero)
 // O resultado seria: "Monroe 860"
 ```
