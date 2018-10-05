@@ -14,7 +14,7 @@ Para gerar um booleano, posso simplesmente atribuir o valor "true" ou "false" a 
 Por exemplo:
 
 ```javascript
-var valorVerdadeiro = true;
+let valorVerdadeiro = true;
 console.log (valorVerdadeiro) // Isso irá imprimir "true" na tela
 ```
 > Para continuar, defina uma variável ‘gostoDeSorvete` e atribui a ela um valor de verdade. Então ele imprimiu na tela o valor da variável.
