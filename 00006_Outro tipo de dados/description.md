@@ -15,7 +15,7 @@ Para gerar uma String, posso simplesmente atribuir o texto a uma variável; por 
 
 
 ```javascript
-var meuPlaneta = "Terra";
+let meuPlaneta = "Terra";
 console.log(meuPlaneta) //Isto irá imprimir na tela “Terra"
 ```
 > Para passar para o próximo exercício, declare a variável `saudacao` e atribua o texto "Hello World".  Finalmente imprimir o valor da variável na tela usando o `console.log`.
