@@ -5,15 +5,15 @@ Em alguns casos, serve para dizer à máquina que interpreta nosso código "faç
 Para começar, no exercício anterior vimos:
 
 ```javascript
-var meses = 12
-var quantidadeDeAlunos = 30
+let meses = 12
+let quantidadeDeAlunos = 30
 ``` 
 
 Também poderia ter sido escrito da seguinte forma, como abaixo::
 
 ```javascript
-var meses = 12;
-var quantidadeDeAlunos = 30;
+let meses = 12;
+let quantidadeDeAlunos = 30;
 ``` 
 
 A partir dos  próximos exercícios, usaremos o ";" como no exemplo anterior.
