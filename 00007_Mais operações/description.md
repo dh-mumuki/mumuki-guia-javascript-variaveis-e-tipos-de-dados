@@ -7,8 +7,8 @@ FIQUE DE OLHO, NÃO ESQUEÇA OS ESPAÇOS!
 Vamos tentar:
 
 ```javascript
-var nome = "Ronaldo";
-var nacionalidade = "Brasileiro";
+let nome = "Ronaldo";
+let nacionalidade = "Brasileiro";
 console.log(nome + " é " + nacionalidade) 
 // O resultado seria: "Ronaldo é Brasileiro"
 ```
