@@ -2,5 +2,5 @@ Para que nosso código seja puro :grinning:, é uma boa prática declarar cada v
 
 ```javascript
 let idade
-let nome
+let peso
 ```
