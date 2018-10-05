@@ -9,7 +9,7 @@ console.log (2> 1) // Isso imprimirá "true" na tela
 Isso significa que "2> 1" tem um valor de **true**. Nós também poderíamos ter escrito o mesmo código da seguinte forma
 
 ```javascript
-var valorVerdade  = 2> 1; 
+let valorVerdade  = 2> 1; 
 // Como vimos 2> 1, ele retorna um valor de verdade e o atribuímos a uma variável
 console.log (valorVerdade) // Isso imprimirá "true" na tela
 ```
@@ -17,7 +17,7 @@ console.log (valorVerdade) // Isso imprimirá "true" na tela
 E se perguntarmos a alguém "2 é menor que 1?" a pessoa dirá "Isso é falso, 2 não é menor que 1", o mesmo acontece em JavaScript quando escrevemos o seguinte:
 
 ```javascript
-console.log (2 <1) // Isso será impresso na tela "false"
+console.log (2 <1) // Isso será impresso "false"  na tela
 ```
 
 > Para continuar, defina duas variáveis: `umNumeroPequeno` e `umNumeroGrande`, e atribua a elas valores numéricos diferentes de acordo com seus nomes.
