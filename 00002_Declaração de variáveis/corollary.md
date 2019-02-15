@@ -1,6 +1,6 @@
-Para que nosso código seja puro :grinning:, é uma boa prática declarar cada variável em uma linha diferente
+Para que nosso código seja puro, é uma boa prática declarar cada variável em uma linha diferente :grinning:
 
 ```javascript
-let idade
-let peso
+var idade
+var peso
 ```
