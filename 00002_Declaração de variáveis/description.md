@@ -11,7 +11,7 @@ var preco
 ```
 
 Temos algumas regras para criar nome de variaveis: 
-<body>
+
 <ul>
 <li> Não pode começar com número</li>
 <li>Não pode ter caracteres especiais</li>
@@ -19,6 +19,6 @@ Temos algumas regras para criar nome de variaveis:
 <li>Não pode utilizar espaços</li>
 <li>Deve começar com letra minuscula e seguir o padrão camelCase, onde cada palavra é iniciada com maiúsculas e unidas sem espaços.</li>
 </ul>
-</body>
+
 
 > Para passar para o próximo exercício, declare duas variáveis, onde uma  se chamará idade e outra que se chamará peso. Em seguida, pressione Enviar.
