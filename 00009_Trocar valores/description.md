@@ -2,10 +2,10 @@ As variáveis além de armazenar informações, e como seu nome diz, podem _vari
 Por exemplo:
 
 ```javascript
-vencedor = "Gustavo Kuerten";
-vencedor = "Federer";
+vencedor = "Pelé";
+vencedor = "Marta";
 console.log (vencedor);
-//  resultado seria: "Federer"
+//  resultado seria: "Marta"
 ```
 Como você deve ter notado, chamando a variável e fazendo uma _reatribuição_ a um valor eu posso mudar seu conteúdo.
 

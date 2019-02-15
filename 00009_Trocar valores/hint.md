@@ -1,1 +1,1 @@
-Neste procedimento, você pode precisar criar uma terceira variável para armazenar informações.
+Neste procedimento, você precisa criar uma terceira variável para armazenar informações.

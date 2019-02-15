@@ -1,12 +1,12 @@
-Já vimos os valores numéricos e as cadeias de texto, mas em JavaScript há mais um tipo de dados:
+Já vimos os valores numéricos e as strings, mas em JavaScript há mais um tipo de dado:
 
 * Booleano
 
-Os tipos de dados **Boolean** são conhecidos como booleanos e permitem representar dois valores lógicos, são eles:
+O **Boolean** é conhecido como booleano e permite representar dois valores lógicos, são eles:
 
 * **true**
  * Representa o valor de algo ser verdadeiro
-* **falso**
+* **false**
  * Representa o valor de algo sendo falso
 
 Para gerar um booleano, posso simplesmente atribuir o valor "true" ou "false" a uma variável.
