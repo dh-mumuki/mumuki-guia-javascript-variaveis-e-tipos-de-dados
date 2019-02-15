@@ -5,15 +5,15 @@ Em Javascript, o sinal ";" é opcional. Mas é importante que você utilize para
 Para começar, no exercício anterior vimos:
 
 ```javascript
-let meses = 12
-let quantidadeDeAlunos = 30
+var meses = 12
+var quantidadeDeAlunos = 30
 ``` 
 
-Também poderia ter sido escrito da seguinte forma, como abaixo::
+Também poderia ter sido escrito da seguinte forma, como abaixo:
 
 ```javascript
-let meses = 12;
-let quantidadeDeAlunos = 30;
+var meses = 12;
+var quantidadeDeAlunos = 30;
 ``` 
 
 A partir dos  próximos exercícios, usaremos o ";" como no exemplo anterior.
