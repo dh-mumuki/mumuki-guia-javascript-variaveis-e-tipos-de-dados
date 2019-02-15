@@ -9,4 +9,4 @@ console.log (rua + " " + numero)
 Como você viu, se eu adicionar um número e um texto, ele se tornará parte da _string_.
 
 
-> **Declarar e atribuir** três variáveis, uma com o seu 'nome', outra com o seu 'sobrenome' e outra com a sua 'idade'. Então, declare uma variável com nome `resultado` e atribua uma string unindo suas variaveis da seguinte forma: _" Ana Paula tem XX anos"_. Respeite os espaços!
+> **Declarar e atribuir** três variáveis, uma com o seu 'nome', outra com o seu 'sobrenome' e outra com a sua 'idade'. Então, declare uma variável com nome `resultado` e atribua uma string unindo suas variaveis da seguinte forma: _" João Silva tem 30 anos"_. Respeite os espaços!
