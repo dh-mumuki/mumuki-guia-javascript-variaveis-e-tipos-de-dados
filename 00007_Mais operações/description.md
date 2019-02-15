@@ -12,6 +12,6 @@ var nacionalidade = "Brasileiro";
 console.log(nome + " é " + nacionalidade) 
 // O resultado seria: "Ronaldo é Brasileiro"
 ```
-> **Declare e atribuia** duas variáveis, uma com o seu `nome` e outra com o seu `sobrenome`, e então na variável` nomeCompleto` mantenha tudo junto. 
-Ex .: "Elon Musk". 
+> **Declare e atribuia** duas variáveis, uma com o seu `nome` e outra com o seu `sobrenome`, e então na variável` nomeCompleto` mantenha tudo junto. <br>
+Exemplo: "Cesar Michelin". <br>
 Observação: Não esqueça de concatenar um  espaço entre as strings!
