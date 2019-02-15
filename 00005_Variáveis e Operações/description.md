@@ -3,7 +3,7 @@ Vimos como declarar uma variável e atribuir um valor a ela e, provavelmente, ag
 As variáveis nos permitem reutilizar os dados atribuídos, simplesmente invocando seu nome.
 
 ```javascript
-let numero  = 124;
+var numero  = 124;
 console.log(numero); 
 // Podemos usar console.log para imprimir o valor que tem atribuído à variável numero. E seu resultado será 124.
 ```
@@ -13,8 +13,8 @@ Algo muito importante também, é, assim como podemos fazer operações matemát
 Por exemplo:
 
 ```javascript
-let numero = 124;
-let numeroSeguinte = numero + 1;
+var numero = 124;
+var numeroSeguinte = numero + 1;
 console.log(numeroSeguinte); 
 // O resultado que será impresso na tela será o valor atribuído a variável numero somado a 1, portanto, o valor atribuído a numeroSeguinte será 125.
 ```
@@ -22,4 +22,4 @@ console.log(numeroSeguinte);
 > Vamos ver se está entendido: **Declare e atribua** duas variáveis, `numeroA` e `numeroB`, e então nas variáveis `resultadoSoma`,`resultadoSubtracao`, `resultadoMultiplicacao` e` resultadoDivisao` armazene os cálculos feitos utilizando numeroA e numeroB nas variáveis de resultado, de modo que o cálculo matemático se altere de acordo com o título da variável, por exemplo.
 Exemplo **var resultadoSoma = (numeroA + numeroB)**
 Como nossa variável **resultadoSoma** indica nós devemos fazer uma soma utilizando as variáveis numeroA e numeroB. 
-Lembre-se, você pode mostrar os resultados imprimindo cada um deles na aba Console ao lado da aba Solução, usando console.log ().
+Lembre-se, você pode mostrar os resultados imprimindo cada um deles na aba _Consola ao lado da aba Solução, usando console.log ().
