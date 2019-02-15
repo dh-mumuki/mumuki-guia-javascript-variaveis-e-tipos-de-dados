@@ -1,6 +1,6 @@
 Você pode ter visto em JavaScript alguns comandos, instruções que terminam em ";".
 
-Em alguns casos, serve para dizer à máquina que interpreta nosso código "faça o que eu disse até esse ponto em determinada linha". Em quais casos? não se preocupe, vamos vê - los à medida que avançarmos :sunglasses:.
+Em Javascript, o sinal ";" é opcional. Mas é importante que você utilize para o computador conseguir entender onde termina o comando.
 
 Para começar, no exercício anterior vimos:
 
