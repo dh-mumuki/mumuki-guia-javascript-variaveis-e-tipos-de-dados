@@ -3,12 +3,7 @@ name: Variáveis ​​e tipos de dados
 locale: pt
 type: learning
 beta: false
-teacher_info: "*Funções e Tipos de Dados revisado\n  \nOlá! Talvez você não tenha
-  notado, mas você já tem as bases da programação: você já sabe como declarar funções
-  e procedimentos, usar variáveis, tomar decisões\n\n  - Não há tabuleiro, mas ainda
-  podemos fazer muitas coisas!\n\n\n   * Funções e declaração\n    > \n   * Functions,
-  uso\n   * Tipos de dados, introdução\n   * Booleanos\n   * Mais contas!\n   * Jogando
-  os dados\n   * E que tal assim…?\n"
+teacher_info: ''
 language: javascript
 id_format: "%05d"
 order:
@@ -23,3 +18,4 @@ order:
 - 9
 - 10
 - 11
+private: false
