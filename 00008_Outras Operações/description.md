@@ -1,12 +1,12 @@
 E o que acontece se eu adicionar números com textos?
 
 ```javascript
-let rua = "Monroe";
-let numero = 860;
-console.log (rua + "" + numero)
-// O resultado seria: "Monroe 860"
+var rua = "Av Paulista";
+var numero = 1578;
+console.log (rua + " " + numero)
+// O resultado seria: "Av Paulista 1578"
 ```
-Como você viu, se eu adicionar um número e um texto, ele se tornará parte do _string_.
+Como você viu, se eu adicionar um número e um texto, ele se tornará parte da _string_.
 
 
-> Vamos ver se você entende: **Declarar e atribuir** três variáveis, uma com o seu 'nome', outra com o seu 'sobrenome' e outra com a sua 'idade'. Então na variável `resultado` da seguinte sentença retorne usando as variáveis: _" Joana Manso terá XX anos"_. Respeite os espaços!
+> **Declarar e atribuir** três variáveis, uma com o seu 'nome', outra com o seu 'sobrenome' e outra com a sua 'idade'. Então, declare uma variável com nome `resultado` e atribua uma string unindo suas variaveis da seguinte forma: _" Ana Paula tem XX anos"_. Respeite os espaços!
