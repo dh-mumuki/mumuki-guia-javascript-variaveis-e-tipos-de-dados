@@ -9,7 +9,7 @@ O **Boolean** é conhecido como booleano e permite representar dois valores lóg
 * **false**
  * Representa o valor de algo sendo falso
 
-Para gerar um booleano, posso simplesmente atribuir o valor "true" ou "false" a uma variável.
+Para gerar um booleano, posso simplesmente atribuir o valor **true** ou **false** a uma variável.
 
 Por exemplo:
 
