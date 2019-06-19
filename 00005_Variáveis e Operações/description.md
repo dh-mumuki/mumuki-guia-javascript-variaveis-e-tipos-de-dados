@@ -23,9 +23,7 @@ console.log(numeroSeguinte);
 Exemplo **var resultadoSoma = (numeroA + numeroB)**
 Como nossa variável **resultadoSoma** indica nós devemos fazer uma soma utilizando as variáveis numeroA e numeroB. 
 Lembre-se, você pode mostrar os resultados imprimindo cada um deles na aba _Consola ao lado da aba Solução, usando console.log ().
-
 Exemplos:
-
 soma: a + b
 subtração: a - b
 multiplicação: a * b
